@@ -56,8 +56,7 @@
 - Strategic Planning
 
 
-## Data Science Portfolio Projects
-**Description:** 
+## Data Analyst Portfolio Projects
 #### [Project Tableau: World Gold Reserves from 2002-Q3 2022](https://public.tableau.com/app/profile/ririn.andriyani/viz/WorldGoldReservesfrom2002-Q32022/Dashboard1)
 
 #### [Project Tableau: Video Games Sales Analysis](https://public.tableau.com/app/profile/ririn.andriyani/viz/VideoGamesSalesAnalysis_16738623051770/Dashboard1#1)
@@ -72,8 +71,10 @@
 
 #### [Project Tableau: Video Games Sales Analysis](https://public.tableau.com/app/profile/ririn.andriyani/viz/VideoGamesSalesAnalysis_16738623051770/Dashboard1#1)
 
-#### [Project SQL - Number of Crimes in Chicago over 24 hours in 2022 (https://github.com/Rinandriyani/Project-Data/blob/main/SQL/CRIME%20ACCUMULATION.txt)
+#### [Project SQL - Number of Crimes in Chicago over 24 hours in 2022](https://github.com/Rinandriyani/Project-Data/blob/main/SQL/CRIME%20ACCUMULATION.txt)
 
-#### [Project SQL - Google Trends (https://github.com/Rinandriyani/Project-Data/blob/main/SQL/GOOGLE%20TRENDS.txt)
+#### [Project SQL - Google Trends](https://github.com/Rinandriyani/Project-Data/blob/main/SQL/GOOGLE%20TRENDS.txt)
+
+#### [etc...](https://github.com/Rinandriyani?tab=repositories)
 
 [webdev]: https://github.com/Rinandriyani
