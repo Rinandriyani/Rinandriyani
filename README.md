@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: andriaririn@gmail.com
+- 📫 How to reach me: **+6289693821627** or andriaririn@gmail.com
 
 ## Education:
 
