@@ -56,7 +56,7 @@
 - Strategic Planning
 
 
-## Data Analyst Portfolio Projects
+#### [Data Analyst Portfolio Projects](https://github.com/Rinandriyani)
 #### [Project Tableau: World Gold Reserves from 2002-Q3 2022](https://public.tableau.com/app/profile/ririn.andriyani/viz/WorldGoldReservesfrom2002-Q32022/Dashboard1)
 
 #### [Project Tableau: Video Games Sales Analysis](https://public.tableau.com/app/profile/ririn.andriyani/viz/VideoGamesSalesAnalysis_16738623051770/Dashboard1#1)
