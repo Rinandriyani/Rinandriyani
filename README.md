@@ -1,11 +1,11 @@
 # Hi there, I'm Ririn👋
 ## About me:
-- 🔭 I’m open to work in data analysis
+- 🔭 I’m open to work in data scientist
 - 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 👯 I’m looking to collaborate as Data Scientist
+- 🤔 I’m looking for suggest for Automation and Data Scientist
 - 💬 Ask me about anything
-- 📫 How to reach me: andriaririn@gmail.com
+- 📫 How to reach me: **+6289693821627** or andriaririn@gmail.com
 
 ## Education:
 
@@ -31,7 +31,7 @@
 #### 3. [PT Pharos Indonesia](http://www.pharos.co.id/) | Health Advisor | Pontianak `2019`
    - Marketing company's products to pharmacy partners
    - Facilitating product sales from pharmacy partners and maintaining cooperation
-#### 4. Private Tutor | Pontianak `2016-2019`
+#### 4. Freelance | Pontianak `2016-2019`
    - Teaching Mathematics and Science subjects
    - Provide academic consultation to students
 
@@ -43,6 +43,9 @@
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="50px" src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Javascript" width="50px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="50px" src="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
@@ -56,7 +59,7 @@
 - Strategic Planning
 
 
-#### [Data Analyst Portfolio Projects](https://github.com/Rinandriyani)
+#### [Data Scientist Portfolio Projects](https://github.com/Rinandriyani)
 #### [Project Tableau: World Gold Reserves from 2002-Q3 2022](https://public.tableau.com/app/profile/ririn.andriyani/viz/WorldGoldReservesfrom2002-Q32022/Dashboard1)
 
 #### [Project Tableau: Video Games Sales Analysis](https://public.tableau.com/app/profile/ririn.andriyani/viz/VideoGamesSalesAnalysis_16738623051770/Dashboard1#1)
