@@ -2,10 +2,9 @@
 ## About me:
 - 🔭 I’m open to work in data scientist
 - 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Scientist
+- 👯 I’m looking to collaborate as Data Scientist, Lecturer or Tutor
 - 🤔 I’m looking for suggest for Automation and Data Scientist
-- 💬 Ask me about anything
-- 📫 How to reach me: **+6289693821627** or andriaririn@gmail.com
+- 💬 Ask me about anything: **+6289693821627** or andriaririn@gmail.com
 
 ## Education:
 
@@ -21,7 +20,7 @@
    
 
 ## Work Experience:
-#### 1. [Astronomy ITB](https://www.as.itb.ac.id/id/) | Assistant Researcher | Pontianak `Feb-Nov 2022`
+#### 1. [Astronomy ITB](https://www.as.itb.ac.id/id/) | Assistant Researcher | Bandung `Feb-Nov 2022`
    - Develop problems of research and research steps
    - Collect, process and analyze data with SQL, Python, and Data Visualization Tools
    - Present research reports
@@ -31,9 +30,15 @@
 #### 3. [PT Pharos Indonesia](http://www.pharos.co.id/) | Health Advisor | Pontianak `2019`
    - Marketing company's products to pharmacy partners
    - Facilitating product sales from pharmacy partners and maintaining cooperation
-#### 4. Freelance | Pontianak `2016-2019`
-   - Teaching Mathematics and Science subjects
-   - Provide academic consultation to students
+#### 4. Freelance | Pontianak-Bandung `2016-Now`
+   - Tutor for Mathematics and Science in private class
+   - Data Analyst Consultant
+
+### Award
+- Awardee of [LPDP Scholarship](https://lpdp.kemenkeu.go.id/en/) from Ministry Finance Indonesia, 2019
+- The Youngest Graduate Bachelor's Student, [Tanjungpura University](https://untan.ac.id/), 2017
+- Awardee of [Generasi Baru Indonesia Scholarship](https://www.generasibaruindonesia.com/beasiswa) from Bank Indonesia, 2015-2016
+- Third Place in [the West Kalimantan Regional Pertamina Physics Olympiad](https://pertamina.com/id/osn-pertamina), 2014
 
 ### Languages and Tools:
 
@@ -43,23 +48,16 @@
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="HTML" width="50px" src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Javascript" width="50px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="50px" src="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg" style="padding-right:10px;" />][webdev]
-
+[<img align="left" alt="Front End Developer" width="50px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" style="padding-right:10px;" />][webdev]
 <br />
 <br />
 
 ### Softskills
-- Communicative
-- Analytical Thinking
-- Teaching
-- Teamwork
-- Leadership
-- Strategic Planning
+Communicative; Analytical Thinking; Teaching; Teamwork; Leadership; Strategic Planning
 
 
 #### [Data Scientist Portfolio Projects](https://github.com/Rinandriyani)
+#### [Certification in Data Scientist](https://github.com/Rinandriyani/Project-Data/tree/main/Kaggle)
 #### [Project Tableau: World Gold Reserves from 2002-Q3 2022](https://public.tableau.com/app/profile/ririn.andriyani/viz/WorldGoldReservesfrom2002-Q32022/Dashboard1)
 
 #### [Project Tableau: Video Games Sales Analysis](https://public.tableau.com/app/profile/ririn.andriyani/viz/VideoGamesSalesAnalysis_16738623051770/Dashboard1#1)
