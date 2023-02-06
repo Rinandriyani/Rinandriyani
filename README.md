@@ -55,9 +55,11 @@
 ### Softskills
 Communicative; Analytical Thinking; Teaching; Teamwork; Leadership; Strategic Planning
 
+### See more about me ...
+- [Data Scientist Portfolio Projects](https://github.com/Rinandriyani)
+- [Certification in Data Scientist](https://github.com/Rinandriyani/Project-Data/tree/main/Kaggle)
 
-### [Data Scientist Portfolio Projects](https://github.com/Rinandriyani)
-### [Certification in Data Scientist](https://github.com/Rinandriyani/Project-Data/tree/main/Kaggle)
+
 #### [Project Tableau: World Gold Reserves from 2002-Q3 2022](https://public.tableau.com/app/profile/ririn.andriyani/viz/WorldGoldReservesfrom2002-Q32022/Dashboard1)
 
 #### [Project Tableau: Video Games Sales Analysis](https://public.tableau.com/app/profile/ririn.andriyani/viz/VideoGamesSalesAnalysis_16738623051770/Dashboard1#1)
