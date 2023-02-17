@@ -30,9 +30,6 @@
 #### 3. [PT Pharos Indonesia](http://www.pharos.co.id/) | Health Advisor | Pontianak `2019`
    - Marketing company's products to pharmacy partners
    - Facilitating product sales from pharmacy partners and maintaining cooperation
-#### 4. Freelance | Pontianak-Bandung `2016-Now`
-   - Tutor for Mathematics and Science in private class
-   - Data Analyst Consultant
 
 ### Award
 - Awardee of [LPDP Scholarship](https://lpdp.kemenkeu.go.id/en/) from Ministry Finance Indonesia, 2019
