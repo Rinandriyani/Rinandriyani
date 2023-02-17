@@ -49,9 +49,6 @@
 <br />
 <br />
 
-### Softskills
-Communicative; Analytical Thinking; Teaching; Teamwork; Leadership; Strategic Planning
-
 ### See more about me ...
 - [Data Scientist Portfolio Projects](https://github.com/Rinandriyani)
 - [Certification in Data Scientist](https://github.com/Rinandriyani/Project-Data/tree/main/Kaggle)
