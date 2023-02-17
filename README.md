@@ -35,7 +35,7 @@
 - Awardee of [LPDP Scholarship](https://lpdp.kemenkeu.go.id/en/) from Ministry Finance Indonesia, 2019
 - The Youngest Graduate Bachelor's Student, [Tanjungpura University](https://untan.ac.id/), 2017
 - Awardee of [Generasi Baru Indonesia Scholarship](https://www.generasibaruindonesia.com/beasiswa) from Bank Indonesia, 2015-2016
-- Third Place in [the West Kalimantan Regional Pertamina Physics Olympiad](https://pertamina.com/id/osn-pertamina), 2014
+- Third Place of [Pertamina Physics Olympiad for West Kalimantan Regional](https://pertamina.com/id/osn-pertamina), 2014
 
 ### Languages and Tools:
 
