@@ -20,7 +20,7 @@
    
 
 ## Work Experience:
-#### 1. [PT Kreasi Edulab Indonesia](https://edulab.co.id/) | Freelance in Data and Operation Division | Bandung `Apr 2023-now`
+#### 1. [PT Kreasi Edulab Indonesia](https://edulab.co.id/) | Staff in Operation and Data Division | Bandung `Apr 2023-now`
    - Collect data related to business processes
    - Make competitive analysis
    - Make forecasts, planning, perform variance analysis and financial analysis
