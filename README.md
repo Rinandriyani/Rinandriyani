@@ -1,8 +1,8 @@
 # Hi there, I'm Ririn👋
 ## About me:
-- 🔭 I’m open to work in data scientist
+- 🔭 I’m open to work as lecturer and data scientist
 - 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Scientist, Lecturer or Tutor
+- 👯 I’m looking to collaborate as Lecturer, Data Scientist, or Tutor
 - 🤔 I’m looking for suggest for Automation and Data Scientist
 - 💬 Ask me about anything: **+6289693821627** or andriaririn@gmail.com
 
