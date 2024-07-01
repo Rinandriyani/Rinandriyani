@@ -24,19 +24,17 @@
    - Collect data related to business processes
    - Make competitive analysis
    - Make forecasts, planning, perform variance analysis and financial analysis
-#### 1. [PT Kreasi Edulab Indonesia](https://edulab.co.id/) | Physics Coach | Bandung `Feb 2023-now`
-   - Develops, plans, and implements curriculum, lesson plans, and educational programs for student audiences within areas of expertise
-   - Advises and teaches students audiences in a variety of academic subjects
-   - Plans, develops and oversees community outreach activities for targeted student populations
-   - Promotes programs and recruits students through networking with local school and community groups
-#### 2. [Astronomy ITB](https://www.as.itb.ac.id/id/) | Assistant Researcher | Bandung `Feb-Nov 2022`
+#### 2. [Akademi Teknologi Bandung](https://pemutu.kemdikbud.go.id/dataprodis/prodis/index/1758) | Contract Lecture | Bandung `Sep 2023-Now`
+   - Develops, plans, and implements curriculum, lesson plans, and educational programs
+   - Teaches in a Physics Engineering subjects
+#### 3. [Astronomy ITB](https://www.as.itb.ac.id/id/) | Assistant Researcher | Bandung `Feb-Nov 2022`
    - Develop problems of research and research steps
    - Collect, process and analyze data with SQL, Python, and Data Visualization Tools
    - Present research reports
-#### 3. [Universitas Panca Bhakti](https://upb.ac.id/) | Laboratory Assistant | Pontianak `2019`
+#### 4. [Universitas Panca Bhakti](https://upb.ac.id/) | Laboratory Assistant | Pontianak `2019`
    - Assisting student or lecturer activities in the laboratory for educational, research and community service activities
    - Helping administrative purposes on campus activities
-#### 4. [PT Pharos Indonesia](http://www.pharos.co.id/) | Health Advisor | Pontianak `2019`
+#### 5. [PT Pharos Indonesia](http://www.pharos.co.id/) | Health Advisor | Pontianak `2019`
    - Marketing company's products to pharmacy partners
    - Facilitating product sales from pharmacy partners and maintaining cooperation
 
