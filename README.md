@@ -24,7 +24,7 @@
    - Collect data related to business processes
    - Make competitive analysis
    - Make forecasts, planning, perform variance analysis and financial analysis
-#### 2. [Akademi Teknologi Bandung](https://pemutu.kemdikbud.go.id/dataprodis/prodis/index/1758) | Contract Lecture | Bandung `Sep 2023-Now`
+#### 2. [Akademi Teknologi Bandung](https://pemutu.kemdikbud.go.id/dataprodis/prodis/index/1758) | Contract Lecturer | Bandung `Sep 2023-Now`
    - Develops, plans, and implements curriculum, lesson plans, and educational programs
    - Teaches in a Physics Engineering subjects
 #### 3. [Astronomy ITB](https://www.as.itb.ac.id/id/) | Assistant Researcher | Bandung `Feb-Nov 2022`
