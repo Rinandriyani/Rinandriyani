@@ -1,10 +1,4 @@
-# Hi there, I'm Ririn👋
-## About me:
-- 🔭 I’m open to work as lecturer and data scientist
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Lecturer, Data Scientist, or Tutor
-- 🤔 I’m looking for suggest for Automation and Data Scientist
-- 💬 Ask me about anything: **+6289693821627** or andriaririn@gmail.com
+A data analyst with expertise in statistical tools and programming languages such as AI-driven frameworks, Python, and advanced statistical methodologies. Specializing in computational cosmology, with a strong foundation in theoretical modeling and data-driven problem-solving. Experienced in academic teaching, delivering complex concepts to diverse audiences with clarity and enthusiasm. Actively engaged in interdisciplinary research and collaborations, leveraging analytical skills to address challenges in both academic and applied contexts. Known for a commitment to continuous learning, innovative thinking, and fostering collaboration across teams to drive impactful results.
 
 ## Education:
 
@@ -24,10 +18,7 @@
    - Collect data related to business processes
    - Make competitive analysis
    - Make forecasts, planning, perform variance analysis and financial analysis
-#### 2. [Akademi Teknologi Bandung](https://pemutu.kemdikbud.go.id/dataprodis/prodis/index/1758) | Contract Lecturer | Bandung `Sep 2023-Now`
-   - Develops, plans, and implements curriculum, lesson plans, and educational programs
-   - Teaches in a Physics Engineering subjects
-#### 3. [Astronomy ITB](https://www.as.itb.ac.id/id/) | Assistant Researcher | Bandung `Feb-Nov 2022`
+#### 3. [Astronomy ITB](https://www.as.itb.ac.id/id/) | Assistant Researcher | Bandung `Feb 2022-now`
    - Develop problems of research and research steps
    - Collect, process and analyze data with SQL, Python, and Data Visualization Tools
    - Present research reports
