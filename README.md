@@ -12,25 +12,32 @@
    
 
 ## Work Experience:
-#### 1. [PT Kreasi Edulab Indonesia](https://edulab.co.id/) | Staff in Operation and Data Division | Bandung `Apr 2023-now`
-   - Collect data related to business processes
-   - Make competitive analysis
-   - Make forecasts, planning, perform variance analysis and financial analysis
+#### 1. [Institut Teknologi Sumatera](https://www.itera.ac.id/) | Lecturer, Lecturer, Department of Atmospheric and Planetary Sciences | Lampung `Jun 2025-now`
+   - Deliver undergraduate courses in atmospheric and planetary sciences.
+   - Supervise undergraduate research and academic projects.
+   - Conduct research on meteorology, climatology, and environmental data analysis.
+   - Develop scientific computing and data analysis workflows using Python and statistical tools.
+   - Contribute to publications, conferences, and academic community activities.
+#### 2. [PT Kreasi Edulab Indonesia](https://edulab.co.id/) | Staff in Operation and Data Division | Bandung `Apr 2023-Jun 2025`
+   - Supported operational decision-making through data analysis and reporting.
+   - Developed forecasting and performance evaluation workflows.
+   - Collaborated with cross-functional teams to improve business processes.
 #### 3. [Astronomy ITB](https://www.as.itb.ac.id/id/) | Assistant Researcher | Bandung `Feb 2022-now`
-   - Develop problems of research and research steps
-   - Collect, process and analyze data with SQL, Python, and Data Visualization Tools
-   - Present research reports
+   - Contributed to scientific research and data-driven analysis projects.
+   - Processed and analyzed datasets using Python, SQL, and visualization tools.
+   - Assisted in preparing research reports and scientific publications.
 #### 4. [Universitas Panca Bhakti](https://upb.ac.id/) | Laboratory Assistant | Pontianak `2019`
-   - Assisting student or lecturer activities in the laboratory for educational, research and community service activities
-   - Helping administrative purposes on campus activities
+   - Assisted laboratory activities supporting education and research.
+   - Maintained laboratory operations and equipment readiness.
+   - Supported administrative and academic activities within the department. service activities
 #### 5. [PT Pharos Indonesia](http://www.pharos.co.id/) | Health Advisor | Pontianak `2019`
-   - Marketing company's products to pharmacy partners
-   - Facilitating product sales from pharmacy partners and maintaining cooperation
+   - Built and maintained relationships with pharmacy partners.
+   - Contributed to achieving business targets through effective customer engagement.
 
 ### Award
 - Awardee of [LPDP Scholarship](https://lpdp.kemenkeu.go.id/en/) from Ministry Finance Indonesia, 2019
 - The Youngest Graduate Bachelor's Student, [Tanjungpura University](https://untan.ac.id/), 2017
-- Awardee of [Generasi Baru Indonesia Scholarship](https://www.generasibaruindonesia.com/beasiswa) from Bank Indonesia, 2015-2016
+- Awardee of [Generasi Baru Indonesia Scholarship](https://www.generasibaruindonesia.com/) from Bank Indonesia, 2015-2016
 - Third Place of [Pertamina Physics Olympiad for West Kalimantan Regional](https://pertamina.com/id/osn-pertamina), 2014
 
 ### Languages and Tools:
@@ -44,29 +51,6 @@
 [<img align="left" alt="Front End Developer" width="50px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" style="padding-right:10px;" />][webdev]
 <br />
 <br />
-
-### See more about me ...
-- [Data Scientist Portfolio Projects](https://github.com/Rinandriyani)
-- [Certification in Data Scientist](https://github.com/Rinandriyani/Project-Data/tree/main/Kaggle)
-
-
-#### [Project Tableau: World Gold Reserves from 2002-Q3 2022](https://public.tableau.com/app/profile/ririn.andriyani/viz/WorldGoldReservesfrom2002-Q32022/Dashboard1)
-
-#### [Project Tableau: Video Games Sales Analysis](https://public.tableau.com/app/profile/ririn.andriyani/viz/VideoGamesSalesAnalysis_16738623051770/Dashboard1#1)
-
-#### [Project 2 Notebook: Bitcoin Prediction](https://nbviewer.org/github/Rinandriyani/Ririn_Andriyani/blob/main/Project%20Notebook/Bitcoin_Prediction.ipynb)
-
-#### [Project 2 Notebook: Diabetes Prediction](https://nbviewer.org/github/Rinandriyani/Project-Data/blob/main/Project%20Notebook/Diabetes%20Prediction.ipynb)
-
-#### [Project Notebook: Energy Produced Analysis](https://github.com/Rinandriyani/Project-Data/blob/main/Project%20Notebook/Energy%20Produced_1.ipynb)
-
-#### [Project Notebook: Analysis of World Happiness in 2022](https://nbviewer.org/github/Rinandriyani/Ririn_Andriyani/blob/main/Project%20Notebook/World%20Happines%20Report%202022.ipynb)
-
-#### [Project Tableau: Video Games Sales Analysis](https://public.tableau.com/app/profile/ririn.andriyani/viz/VideoGamesSalesAnalysis_16738623051770/Dashboard1#1)
-
-#### [Project SQL - Number of Crimes in Chicago over 24 hours in 2022](https://github.com/Rinandriyani/Project-Data/blob/main/SQL/CRIME%20ACCUMULATION.txt)
-
-#### [Project SQL - Google Trends](https://github.com/Rinandriyani/Project-Data/blob/main/SQL/GOOGLE%20TRENDS.txt)
 
 #### [etc...](https://github.com/Rinandriyani?tab=repositories)
 
