@@ -1,15 +1,7 @@
 ## Education:
 
 #### 1. [Institut Teknologi Bandung](https://www.itb.ac.id/) | Master of Astronomy | Bandung `2020-2022` | GPA: 3.86/4.00
-   - Asistant Researcher of Galaxy and Cosmology
-   - Treasurer of Organization (Keluarga Mahasiswa Islam Pascasarjana ITB 2021)
- #### 2. [Universitas Tanjungpura](https://untan.ac.id/) | Bachelor of Physics | Pontianak `2013-2017` | GPA: 3.73/4.00
-   - Assistant Researcher of Theorical and Computational Physics
-   - Laboratory Assistant in Basic Physics
-   - Tutor of Mathematics in Physics
-   - Chairman in Human Resource Development of MIPA Science Institute 2017
-   - Chief Executive of Himpunan Mahasiswa Fisika 2015-2016
-   
+ #### 2. [Universitas Tanjungpura](https://untan.ac.id/) | Bachelor of Physics | Pontianak `2013-2017` | GPA: 3.73/4.00   
 
 ## Work Experience:
 #### 1. [Institut Teknologi Sumatera](https://www.itera.ac.id/) | Lecturer, Lecturer, Department of Atmospheric and Planetary Sciences | Lampung `Jun 2025-now`
@@ -34,21 +26,19 @@
    - Built and maintained relationships with pharmacy partners.
    - Contributed to achieving business targets through effective customer engagement.
 
+## Organization:
+#### 1. Keluarga Mahasiswa Islam Pascasarjana ITB | Treasurer | 2021
+#### 2. MIPA Science Institute FMIPA Untan | Human Resource Development Division | 2016-2017
+#### 3. Himpunan Mahasiswa Fisika FMIPA Untan | Leader | 2015-2016
+#### 4. Badan Eksekutif Mahasiswa FMIPA Untan | Human Resource Development Division | 2015
+
+
 ### Award
 - Awardee of [LPDP Scholarship](https://lpdp.kemenkeu.go.id/en/) from Ministry Finance Indonesia, 2019
 - The Youngest Graduate Bachelor's Student, [Tanjungpura University](https://untan.ac.id/), 2017
 - Awardee of [Generasi Baru Indonesia Scholarship](https://www.generasibaruindonesia.com/) from Bank Indonesia, 2015-2016
 - Third Place of [Pertamina Physics Olympiad for West Kalimantan Regional](https://pertamina.com/id/osn-pertamina), 2014
 
-### Languages and Tools:
-
-[<img align="left" alt="Anaconda" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="SQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Front End Developer" width="50px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" style="padding-right:10px;" />][webdev]
 <br />
 <br />
 
