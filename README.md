@@ -42,6 +42,4 @@
 <br />
 <br />
 
-#### [etc...](https://github.com/Rinandriyani?tab=repositories)
-
 [webdev]: https://github.com/Rinandriyani
